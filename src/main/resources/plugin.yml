@@ -1,0 +1,7 @@
+name: CrazyBeacons
+version: '${project.version}'
+main: tech.sebazcrc.crazybeacons.Main
+api-version: 1.18
+authors: [ SebazCRC ]
+description: A plugin to customize unique Beacons!
+website: https://twitter.com/SebazCRC
